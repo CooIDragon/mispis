@@ -1,5 +1,6 @@
 Use case диаграмма:
-![Univ](lab10-master/pictures/207662817-e4b4df4f-55f3-48de-8897-cf9a4ecfa045.png)
+![Univ]![image](https://github.com/CooIDragon/mispis/assets/90614965/19abc268-68bc-4790-a067-e2fdb45ee106)
+
 
 Диаграмма последовательностей
 ![Univ](lab10-master/pictures/sequenses.png)
