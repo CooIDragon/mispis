@@ -8,4 +8,5 @@ Use case диаграмма:
 ![Univ](lab10-master/pictures/state.png)
 
 Терминал:
-![результат выполнения](https://github.com/tayuyka/lab10_mispis/blob/master/lab10-master/pictures/output.png)
+![результат выполнения](![image](https://github.com/CooIDragon/mispis/assets/90614965/af0991d3-0777-40d1-aa2e-c667d9eb0506)
+)
